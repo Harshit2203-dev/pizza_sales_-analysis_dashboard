@@ -1,8 +1,8 @@
-🍕 Pizza Sales Analysis Dashboard
+# 🍕 Pizza Sales Analysis Dashboard
 
 This project analyzes sales data for a pizza restaurant using SQL for data analysis and Power BI for interactive data visualization. The dashboard reveals key insights like the busiest pizzas, sales performance trends, and the best/worst performing pizzas.
 
-🔍 Objective
+** 🔍 Objective **
 
 To uncover actionable insights from pizza sales data, helping stakeholders understand:
 
@@ -14,7 +14,7 @@ Monthly sales trends and performance
 
 Which pizzas are underperforming?
 
-🧮 Tools Used
+** 🧮 Tools Used **
 
 SQL (SQL Server) – Data exploration and cleaning
 
